@@ -6,6 +6,7 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
+   <a href="https://github.com/Arch886"><img src="https://github-readme-stats.vercel.app/api?username=aArch886&show_icons=true&theme=transparent" alt="Arch886's github stats"></a>
   <a href="https://github.com/Arch886"><img src="https://github-readme-stats.vercel.app/api?username=Arch886&hide_border=true&show_icons=true" alt="Arch886's github stats"></a>
 </p>
 
