@@ -6,8 +6,21 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
-   <a href="https://github.com/Arch886"><img src="https://github-readme-stats.vercel.app/api?username=aArch886&show_icons=true&theme=transparent" alt="Arch886's github stats"></a>
-  <a href="https://github.com/Arch886"><img src="https://github-readme-stats.vercel.app/api?username=Arch886&hide_border=true&show_icons=true" alt="Arch886's github stats"></a>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Arch886&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Arch886&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arch886a&show_icons=true" />
+  </picture>
+  <br>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arch886&layout=compact" alt="Arch886 github stats"></a>
+  <br>
+  
 </p>
 
 <p align="center">
@@ -19,5 +32,6 @@
 </p>
 
 <p align="center">❤ I'm currently working on HEAVEN!!</p>
+
 
 
