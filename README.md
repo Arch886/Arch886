@@ -25,11 +25,11 @@ Halo! Saya **Arch886**, seorang pengembang perangkat lunak berbakat yang mengkhu
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch886&theme=tokyonight&hide_border=true" alt="Arch886's GitHub Streak" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch886&theme=tokyonight&hide_border=true&count_private=true" alt="Arch886's GitHub Streak" />  
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch886&layout=compact&theme=tokyonight&hide_border=true" alt="Arch886's Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch886&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Arch886's Top Languages" />  
 </p>  
 
 
@@ -71,7 +71,7 @@ Halo! Saya **Arch886**, seorang pengembang perangkat lunak berbakat yang mengkhu
 ## 🏅 Achievements  
 
 <p align="center">  
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">  
+  <a href="https://github-profile-trophy.vercel.app/?username=arch886&theme=tokyonight&no-frame=true">  
     <img src="https://github-profile-trophy.vercel.app/?username=arch886&theme=tokyonight&no-frame=true" alt="Trophies" />  
   </a>  
 </p>
